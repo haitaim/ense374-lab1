@@ -1,0 +1,5 @@
+This text file won't be seen on the alternate branch.
+
+I'm not sure how you can prove this to the instructor, but I suppose it doesn't
+matter.
+
